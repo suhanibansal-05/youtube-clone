@@ -58,3 +58,7 @@
     border: none; /* Remove default borders */
     height: 1px; /* Set the thickness of the line */
 }
+.side-link.active img{
+    padding-bottom: 2px;
+    border-bottom: 3px solid red;
+}
